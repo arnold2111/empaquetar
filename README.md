@@ -9,6 +9,15 @@
   Primer pas:
       Crearem dos fitxers, un 'nom'.java i un altre amb el nom de 'mymanifest.mf'
 
+  Segon pas:
+      Editarem el fitxer .java en el qual hi posarem:
+
+      package empaquetar;
+          public class arnau{
+                  public static void main(String[] args){
+                    System.out.println("Hola Arnau!");			            
+                  }
+          }
   2. Executa el JAR, i mostra el seu resultat.
   2 INCLOURE JAR'S A LA MEVA APLICACIÓ
   1. Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR i l'exemple ProvaUtils.java.
