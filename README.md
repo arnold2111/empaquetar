@@ -20,6 +20,17 @@
           }
   Tercer Pas:
       Utilitzem la comanda javac 'fitxer'.java
+
+  Quart Pas:
+      Modifiquem el fitxer mymanifest.mf
+
+      EX:
+
+        Manifest-Version: 1.0
+        Created-By: 1.5.0_06 (BEA Systems, Inc.)
+        Main-Class: pepelu.HolaPepelu
+        Class-Path: UtilitatsMeves.jar UtilitatsNoMeves.jar
+        
   2. Executa el JAR, i mostra el seu resultat.
   2 INCLOURE JAR'S A LA MEVA APLICACIÓ
   1. Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR i l'exemple ProvaUtils.java.
