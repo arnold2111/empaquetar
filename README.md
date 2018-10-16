@@ -18,6 +18,8 @@
                     System.out.println("Hola Arnau!");			            
                   }
           }
+  Tercer Pas:
+      Utilitzem la comanda javac 'fitxer'.java
   2. Executa el JAR, i mostra el seu resultat.
   2 INCLOURE JAR'S A LA MEVA APLICACIÓ
   1. Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR i l'exemple ProvaUtils.java.
